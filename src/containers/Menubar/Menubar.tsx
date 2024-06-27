@@ -30,7 +30,7 @@ const Menubar: React.FC = () => {
         window.location.hash = '/'
     };
     const onGitHubClick = () => {
-        window.open('https://github.com/Coderberg/web-developer-tools')
+        window.open('https://github.com/omargeo/dt')
     };
 
     return <Menu model={items} onLogoClick={onLogoClick}
