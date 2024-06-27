@@ -1,6 +1,6 @@
-![GitHub Cards Preview](https://github.com/omargeo/developer-tool/blob/main/assets/images/dt-cover.png)
+![GitHub Cards Preview](https://github.com/omargeo/developer-tools/blob/main/src/assets/images/dt-cover.png)
 
-You can access the tool [here](https://omargeo.github.io/developer-tool/)
+You can access the tool [here](https://omargeo.github.io/developer-tools/)
 
 ## Available Scripts
 
