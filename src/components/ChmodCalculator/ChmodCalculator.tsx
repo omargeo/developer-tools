@@ -4,7 +4,7 @@ import {Fieldset} from "primereact/fieldset";
 import 'primeflex/primeflex.css';
 import {ChmodCalculatorPropsInterface} from "../../types/chmodCalculator";
 import Checkboxes from "./Checkboxes/Checkboxes";
- 
+  
 const ChmodCalculator: React.FC<ChmodCalculatorPropsInterface> =
     ({
          checked, onCheckboxChange, numberFieldValue,
