@@ -4,7 +4,7 @@ Welcome to the repository of the developer tools!
 The tool is desgined to help developers with their tasks by offering Chmod Calculator, Crontab Generator, Unix Timestamp Converter, and Password Generator. More features will be added soon so stay tuned.
 You can access the tool [here](https://omargeo.github.io/developer-tools/)
      
-## Available Scripts   
+## Available Scripts    
  
 In the project directory, you can run:
 
