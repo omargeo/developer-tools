@@ -1,4 +1,4 @@
-import transform from "../utils/transformers/humanReadableToCrontab"; 
+import transform from "../utils/transformers/humanReadableToCrontab";
 
 const getMinutes = formState => [
     formState.minutes.selectedRadio,
